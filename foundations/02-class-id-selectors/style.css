@@ -1,0 +1,14 @@
+/* styles.css */
+
+.odd-number {
+    background-color: #ffc0cb; font-family: Verdana, sans-serif;
+}
+#second {
+    color: #0000ff; font-size: 36px;
+}
+.third-element {
+    font-size: 24px;
+}
+#fourth-element {
+    background-color: #a2ff95; font-size: 24px; font-weight: bold;
+}
